@@ -907,10 +907,11 @@ static.ak.fbcdn.net    origincache-starfacebook-ai-01-05-ash3.facebook.com
 220.255.2.153	android.googleapis.com
 220.255.2.153	bigcache.googleapis.com
 220.255.2.153	chart.googleapis.com
+220.255.2.153	commondatastorage.googleapis.com
 220.255.2.153	content.googleapis.com
 220.255.2.153	maps.googleapis.com
+220.255.2.153	material-design.storage.googleapis.com
 220.255.2.153	origin-commondatastorage.googleapis.com
-220.255.2.153	commondatastorage.googleapis.com
 220.255.2.153	play.googleapis.com
 220.255.2.153	plus.googleapis.com
 220.255.2.153	redirector-bigcache.googleapis.com
