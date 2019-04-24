@@ -7,13 +7,13 @@ Update /etc/hosts automatically
 ### Execute from internet
 
 ```
-sudo bash -c 'curl -sL https://rawgit.com/johnsonlee/autohosts/master/bin/autohosts.sh | bash'
+sudo bash -c 'curl -sL https://cdn.jsdelivr.net/gh/johnsonlee/autohosts@master/bin/autohosts.sh | bash'
 ```
 
 ### Download to local
 
 ```
-sudo bash -c 'curl -sL https://rawgit.com/johnsonlee/autohosts/master/bin/autohosts.sh > /usr/local/bin/autohosts'
+sudo bash -c 'curl -sL https://cdn.jsdelivr.net/gh/johnsonlee/autohosts@master/bin/autohosts.sh > /usr/local/bin/autohosts'
 sudo chmod +x /usr/local/bin/autohosts
 autohosts
 ```
